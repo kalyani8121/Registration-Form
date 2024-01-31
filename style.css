@@ -1,0 +1,73 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ddd5d5;
+    background-image: url(https://res.cloudinary.com/dhmiizo6f/image/upload/v1696693966/samples/ecommerce/analog-classic.jpg);
+    background-position: center;
+    background-size: 50%;
+    text-align: center;
+    margin: 10px;
+    padding: 0px;
+}
+.container{
+   background-color:lightgray;
+   border-radius: 30px;
+   border: 2px solid #161313;
+   width: 400px;
+   text-align: center;
+   margin: 10px auto;
+   height: 95vh;
+}
+
+h1 {
+    font-size: 24px;
+    color:black;
+    margin: 20px 0;
+    text-align: center;
+}
+
+label {
+    font-weight: bold;
+    align-items: center;
+    box-sizing: border-box;
+    color:rgb(3, 3, 3);
+    font-size: 20px;
+}
+
+
+i{
+    font-size: 20px;
+    color: #1a1717;
+    text-align: center;
+}
+
+input[type="text"]{
+    width: 300px;
+    padding: 10px;
+    border: 2px solid #272525;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+input[type="password"] {
+    width: 300px;
+    padding: 10px;
+    border: 2px solid #2c2929;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+button[type="submit"] {
+    background-color: #a9b3c9;
+    color: #111111;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    margin: 10px;
+}
+a{
+    color: blue;
+}
